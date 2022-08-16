@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">Frontend developer , Tech lead</h3>
 
-- 👨‍💻 All of my projects are available at [shivvam.github.io](shivvam.github.io)
+- 💬 Ask me about **ReactJS, NextJS,Laravel, TypeScript, TailwindCSS, MaterialUI**
 
 - 📝 I regularly write articles on [shivamv.hashnode.dev](shivamv.hashnode.dev)
 
-- 💬 Ask me about **ReactJS, NextJS,Laravel, TypeScript, TailwindCSS, MaterialUI**
+- 👨‍💻 My portfolio available at [shivvam.github.io](shivvam.github.io)
 
 - 📫 How to reach me **svishwakarma74@gmail.com**
 
