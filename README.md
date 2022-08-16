@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">Frontend developer , Tech lead</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivvam" alt="shivvam" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [shivvam.github.io](shivvam.github.io)
 
 - 📝 I regularly write articles on [shivamv.hashnode.dev](shivamv.hashnode.dev)
