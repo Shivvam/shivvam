@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **ReactJS, NextJS,Laravel, TypeScript, TailwindCSS, MaterialUI**
 
-- 📝 I regularly write articles on [https://shivamv.hashnode.dev/](shivamv.hashnode.dev)
+- 📝 I regularly write articles on [shivamv.hashnode.dev](https://shivamv.hashnode.dev/)
 
-- 👨‍💻 My portfolio available at [https://shivvam.github.io/](shivvam.github.io)
+- 👨‍💻 My portfolio available at [shivvam.github.io](https://shivvam.github.io/)
 
 - 📫 How to reach me **svishwakarma74@gmail.com**
 
