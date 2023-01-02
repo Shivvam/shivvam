@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">Frontend developer , Tech lead</h3>
+<h3 align="center">FullStack developer , Tech lead</h3>
 
-- 💬 Ask me about **ReactJS, NextJS,Laravel, TypeScript, TailwindCSS, MaterialUI**
+- 💬 Ask me about **ReactJS, NextJS, Laravel, TypeScript, TailwindCSS, MaterialUI**
 
 - 📝 I regularly write articles on [shivamv.hashnode.dev](https://shivamv.hashnode.dev/)
 
