@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">FullStack developer , Tech lead</h3>
+<h3 align="center">Software Engineer , Tech lead</h3>
 
 - 💬 Ask me about **ReactJS, NextJS, Laravel, TypeScript, TailwindCSS, MaterialUI**
 
-- 📝 I regularly write articles on [shivamv.hashnode.dev](https://shivamv.hashnode.dev/)
-
 - 👨‍💻 My portfolio available at [shivvam.github.io](https://shivvam.github.io/)
+
+- 📝 I regularly write articles on [shivamv.hashnode.dev](https://shivamv.hashnode.dev/)
 
 - 📫 How to reach me **svishwakarma74@gmail.com**
 
